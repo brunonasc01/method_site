@@ -1,0 +1,13 @@
+https://github.com/brunonasc01/method_site.git
+
+O site inicialmente terá:
+
+- Cabeçalho superior com Logotipo
+
+- Menu com link para as principais áreas (artigos, projetos, sobre, contato)
+
+- Conteúdo abrangendo a maior parte da tela (grid)
+
+- Rodapé padrão com redundancia de links e logotipos relevantes
+
+
